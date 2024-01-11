@@ -15,10 +15,8 @@ Software can be recognized, discerned or otherwise inferred to be present in
 the generated products of the Algorithm, regardless of the degree to which the 
 Software has been transformed by the Algorithm, regardless of the Algorithm's
 purpose or the intent of its creators, will be considered a breach of this 
-license and a violation of the Digital Millennium Copyright Act, and will fall 
-outside protection of Fair Use (Section 107, 1976 Copyright Act). Damages from
-a breach of this license will not be limited to actual damages and may include 
-statutory, compensatory or punative damages.
+license. Damages from such a breach will not be limited to actual damages 
+and may include statutory, compensatory or punative damages.
 
 2: The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
