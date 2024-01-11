@@ -17,7 +17,7 @@ Software has been transformed by the Algorithm, regardless of the Algorithm's
 purpose or the intent of its creators, will be considered a breach of this 
 license and a violation of the Digital Millennium Copyright Act, and will fall 
 outside protection of Fair Use (Section 107, 1976 Copyright Act). Damages from
-a breach of this licence will not be limited to actual damages and may include 
+a breach of this license will not be limited to actual damages and may include 
 statory, compensatory or punative damages.
 
 2: The above copyright notice and this permission notice shall be included in all
