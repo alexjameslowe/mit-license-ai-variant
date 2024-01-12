@@ -20,8 +20,8 @@ marketability of the Algorithm's generated products or outputs, regardless
 of the Algorithm's purpose or the intent of its creators, regardless of 
 whether such inclusion in the training data was intentional or accidental,
 will be considered a breach of this license. Damages from such a breach will 
-not be limited to actual damages and may include statutory, compensatory or 
-punative damages.
+not be limited to actual damages and may include any combination of statutory, 
+compensatory and punative damages.
 
 2: The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
