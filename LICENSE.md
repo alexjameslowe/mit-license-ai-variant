@@ -12,13 +12,14 @@ general intelligence algorithm (the "Algorithm") without the expressed
 permission of the license-holder. Appearances of any part of this Software in 
 the training data of any such Algorithm, regardless of what, if any, part of 
 the Software can be recognized, discerned or otherwise inferred to be present 
-in the generated products of the Algorithm, regardless of the degree, if any, 
-to which the Software has been transformed by the Algorithm, regardless of the 
-degree, if any, to which the Software can be proven to improve the accuracy, 
-quality, speed or marketability of the Algorithm's outputs, regardless of the 
-Algorithm's purpose or the intent of its creators, will be considered a breach 
-of this license. Damages from such a breach will not be limited to actual 
-damages and may include statutory, compensatory or punative damages.
+in the generated products or outputs of the Algorithm, regardless of the 
+degree, if any, to which the Software has been transformed by the Algorithm, 
+regardless of the degree, if any, to which the Software can be proven to 
+improve the accuracy, quality, speed or marketability of the Algorithm's 
+generated products or outputs, regardless of the Algorithm's purpose or the 
+intent of its creators, will be considered a breach of this license. Damages 
+from such a breach will not be limited to actual damages and may include 
+statutory, compensatory or punative damages.
 
 2: The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
