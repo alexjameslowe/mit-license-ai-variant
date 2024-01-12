@@ -18,7 +18,7 @@ transformed by the Algorithm, regardless of the degree, if any, to which the
 Software can be proven to improve the accuracy, quality, speed or 
 marketability of the Algorithm's generated products or outputs, regardless 
 of the Algorithm's purpose or the intent of its creators, regardless of 
-whether such inclusion in the training set was intentional or accidental,
+whether such inclusion in the training data was intentional or accidental,
 will be considered a breach of this license. Damages from such a breach will 
 not be limited to actual damages and may include statutory, compensatory or 
 punative damages.
