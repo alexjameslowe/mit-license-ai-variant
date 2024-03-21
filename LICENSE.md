@@ -15,7 +15,7 @@ of what, if any, part of the Software can be recognized, discerned or
 otherwise inferred to be present in the generated products or outputs of the 
 Algorithm, regardless of the degree, if any, to which the Software has been 
 transformed by the Algorithm, regardless of the degree, if any, to which the 
-Software can be proven to improve the accuracy, quality, speed or 
+Software can be proven to affect the accuracy, quality, speed or 
 marketability of the Algorithm's generated products or outputs, regardless 
 of the Algorithm's purpose or the intent of its creators, regardless of 
 whether such inclusion in the training data was intentional or accidental,
